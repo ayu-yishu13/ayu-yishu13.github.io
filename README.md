@@ -11,7 +11,6 @@
   ✨ A beautifully animated, mobile-friendly portfolio built with Next.js, Tailwind CSS & Framer Motion. Showcasing my projects, skills, and contact info in style!
 </p>
 
----
 
 ## 🔗 Live Demo
 
@@ -71,6 +70,7 @@ Copy
 Edit
 
 ---
+<p align="center"> Built with ❤️ by <strong>Ayush Kumar Rai</strong> using Next.js & Tailwind CSS </p> 
 
 ## ⚙️ Run Locally
 
@@ -105,7 +105,6 @@ Platform	Link
 
 ⭐ Like this Portfolio?
 If you like my portfolio, please consider giving it a ⭐ and sharing it!
-Feel free to fork it and build your own.
+Feel free to fork it and build your own. ```
 
-<p align="center"> Built with ❤️ by <strong>Ayush Kumar Rai</strong> using Next.js & Tailwind CSS </p> ```
 
