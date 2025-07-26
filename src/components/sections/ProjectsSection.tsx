@@ -116,8 +116,8 @@ const projects: Project[] = [
       { name: "React", color: "bg-red-500" },
     ],
     technologies: ["Python", "Back-End", "Front-End", "OpenCV", "NumPy", "Pandas", "React", "Tailwind CSS", "Next.js", "JavaScript"],
-    github: "Will be Uploaded Soon",
-    demo: ""
+    github: "https://github.com/ayu-yishu13/ayu-yishu13.github.io",
+    demo: "https://ayu-yishu13-github-io.vercel.app/"
   },
 
 ];

@@ -45,7 +45,7 @@ export function ResumeSection() {
                 <p className="text-slate-400">AI/ML Researcher & Engineer</p>
               </div>
               <Button asChild className="w-full md:w-auto" size="lg">
-                <Link href="/images/resume01.pdf" target="_blank" download>
+                <Link href="/images/ayushkumarrai_resume.pdf" target="_blank" download>
                   <Download className="mr-2 h-4 w-4" />
                   Download Resume
                 </Link>
@@ -54,7 +54,7 @@ export function ResumeSection() {
 
             <div className="relative aspect-[1/1.4] w-full bg-slate-800/50 border border-slate-700 rounded-md overflow-hidden">
               <iframe
-                src="/images/resume01.pdf"
+                src="/images/ayushkumarrai_resume.pdf"
                 className="absolute inset-0 w-full h-full"
                 style={{ border: "none" }}
                 title="Resume Preview"
@@ -65,7 +65,7 @@ export function ResumeSection() {
                 <div className="text-center p-6">
                   <p className="text-slate-200 mb-4">Resume preview may not be available in all browsers.</p>
                   <Button asChild>
-                    <Link href="/images/resume01.pdf" target="_blank">
+                    <Link href="/images/ayushkumarrai_resume.pdf" target="_blank">
                       Open Resume in New Tab
                     </Link>
                   </Button>

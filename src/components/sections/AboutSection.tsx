@@ -235,7 +235,7 @@ export function AboutSection() {
               <p
                 className="text-sm sm:text-base text-gray-400 leading-relaxed"
               >
-                AI/ML Enthusiast | 3rd-Year Computer Science Student | Developing Innovative Solutions with AI and ML |
+                AI/ML Engineer | 4th-Year Computer Science Student | Developing Innovative Solutions with AI and ML |
                 Skilled in Python, C++, LLMs, Power BI & Excel |
                 Passionate about Solving Real-World Problems through Technology
                 Done various Certifications, Courses, Hackathons etc...
@@ -244,7 +244,7 @@ export function AboutSection() {
 
               <div className="flex flex-col sm:flex-row items-center lg:items-start gap-3 w-full">
                 <Link
-                  href="/images/resume01.pdf"
+                  href="/images/ayushkumarrai_resume.pdf"
                   target="_blank"
                   download
                   className="w-full sm:w-auto"
