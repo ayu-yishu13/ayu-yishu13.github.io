@@ -36,7 +36,6 @@ const ML_GIFS = [
   { src: "/6.jpg", alt: "AI&ML future" },
   { src: "/ai1.jpeg", alt: "AI&ML future" },
   { src: "/2.jpg", alt: "AI&ML future" },
-  
   { src: "/3.jpg", alt: "AI&ML future" },
   { src: "/4.jpeg", alt: "AI&ML future" },
   { src: "/5.jpeg", alt: "AI&ML future" }, 

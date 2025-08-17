@@ -148,7 +148,7 @@ export function Header() {
             asChild
             className="group relative overflow-hidden bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-700 hover:to-purple-700 text-white px-6 py-2 rounded-lg transition-all duration-300"
           >
-            <Link href="/images/ayushkumarrai_resume.pdf" target="_blank" download>
+            <Link href="/images/update[1]ayush.pdf" target="_blank" download>
               <span className="relative z-10">Download CV</span>
               <span className="absolute inset-0 bg-white/10 scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left" />
             </Link>

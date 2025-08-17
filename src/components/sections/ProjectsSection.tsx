@@ -120,6 +120,28 @@ const projects: Project[] = [
     demo: "https://ayu-yishu13-github-io.vercel.app/"
   },
 
+  {
+    id: 7,
+    title: "Advance Jarvis",
+    description:
+      "Jarvis is a Python-powered personal voice assistant with a modern HTML/CSS/JS frontend, SQLite database, and Eel bridge for desktop integration. Built with SpeechRecognition, PyAudio, pyttsx3, and Bootstrap, it combines AI automation with a clean web UI.",
+    image: "/images/projects/1.png",
+    tags: [
+      { name: "Python", color: "bg-green-500" },
+      { name: "Css", color: "bg-blue-500" },
+      { name: "Web Development", color: "bg-purple-500" },
+      { name: "HTML", color: "bg-red-500" },
+      { name: "CSS", color: "bg-pink-500"},
+      { name: "JS" , color: "bg-aqua-500"},
+      { name: "eel", color: "bg-purple-500"}
+
+    ],
+    technologies: ["Python 3.x", "HTML5", "CSS3", "JavaScript (ES6+)", "NumPy", "Bootstrap 5", "React", "SQLite", "Next.js", "SpeechRecognition + PyAudio", "Requests", "Wikipedia", "pywhatkit", "psutil"],
+    github: "https://github.com/ayu-yishu13/Jarvis.git",
+    demo: "https://jarvis-eight-pi.vercel.app/"
+
+  },
+
 ];
 
 interface ProjectCardProps {

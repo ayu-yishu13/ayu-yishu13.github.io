@@ -244,7 +244,7 @@ export function AboutSection() {
 
               <div className="flex flex-col sm:flex-row items-center lg:items-start gap-3 w-full">
                 <Link
-                  href="/images/ayushkumarrai_resume.pdf"
+                  href="/images/update[1]ayush.pdf"
                   target="_blank"
                   download
                   className="w-full sm:w-auto"
@@ -364,7 +364,7 @@ export function AboutSection() {
                         <p className="text-xs text-slate-400">April 2025 – June 2025</p>
                         <p className="text-sm text-slate-300 mt-1">
                           - Skills: Machine Learning · Back-End Web Development · Python (Programming Language) · Java · Front-End Development · Data Analysis
-                          <br />- Developed and deployed four projects: K-Means Clustering, House Sales Prediction, Cat & Dog Image Classifier, and a Portfolio Website.
+                          <br />- Developed and deployed four projects: K-Means Clustering, House Sales Prediction, Cat & Dog Image Classifier,Portfolio Website, Advanced jarvis.
                         </p>
                       </div>
                       <div>

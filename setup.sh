@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Portfolio setup script for Vercel deployment
-echo "🚀 Setting up Priyanshu's Portfolio for Vercel deployment"
+echo "🚀 Setting up Ayush's Portfolio for Vercel deployment"
 
 # Install dependencies
 echo "📦 Installing dependencies..."

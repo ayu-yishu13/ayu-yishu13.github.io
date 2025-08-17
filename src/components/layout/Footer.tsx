@@ -70,7 +70,7 @@ export function Footer() {
 
             <div className="flex items-center space-x-2">
               <a
-                href="/images/ayushkumarrai_resume.pdf"
+                href="/images/update[1]ayush.pdf"
                 target="_blank"
                 download
                 className="flex items-center text-sm text-slate-400 hover:text-indigo-400 transition-colors"
