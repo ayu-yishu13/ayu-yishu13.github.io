@@ -20,8 +20,7 @@
 
 ## 📸 Preview
 
-![Preview](./portfolio.png)
-
+![Preview](./public/images/projects/portfolio.png)
 
 
 ---
