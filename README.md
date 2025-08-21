@@ -20,7 +20,7 @@
 
 ## 📸 Preview
 
-<img src="public/preview.png" alt="Portfolio preview" width="100%" />
+<img src="portfolio.png" alt="Portfolio preview" width="100%" />
 
 
 
@@ -106,5 +106,3 @@ Platform	Link
 ⭐ Like this Portfolio?
 If you like my portfolio, please consider giving it a ⭐ and sharing it!
 Feel free to fork it and build your own. ```
-
-
