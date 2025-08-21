@@ -20,7 +20,7 @@
 
 ## 📸 Preview
 
-<img src="portfolio.png" alt="Portfolio preview" width="100%" />
+![Preview](./portfolio.png)
 
 
 
