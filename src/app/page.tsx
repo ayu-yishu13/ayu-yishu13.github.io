@@ -7,10 +7,12 @@ import { ProjectsSection } from "@/components/sections/ProjectsSection";
 import { PublicationsSection } from "@/components/sections/PublicationsSection";
 import { CertificatesSection } from "@/components/sections/CertificatesSection";
 import { ContactSection } from "@/components/sections/ContactSection";
+import Snowflakes from "@/components/layout/Snowflakes";
 
 export default function Home() {
   return (
     <main className="min-h-screen">
+      <Snowflakes />
       <Header />
       <HeroSection />
       <AboutSection />

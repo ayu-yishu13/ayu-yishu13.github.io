@@ -67,7 +67,7 @@ const StatCard = ({ icon: Icon, color, value, label, description, animation }: {
   animation: string;
 }) => (
   <motion.div
-    initial={{ opacity: 0, y: 20 }}
+    initial={{ opacity: 0, y: 40 }}
     whileInView={{ opacity: 1, y: 0 }}
     viewport={{ once: false, amount: 0.3 }}
     transition={{ duration: 0.5 }}
@@ -159,8 +159,8 @@ export function AboutSection() {
       <div className="container mx-auto px-4 sm:px-6 max-w-7xl">
         <motion.div
           ref={ref}
-          initial={{ opacity: 0, y: 20 }}
-          animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+          initial={{ opacity: 0, y: 40 }}
+          animate={isInView ? { opacity: 1, y: 0 } : { opacity: 1, y: 20 }}
           transition={{ duration: 0.5 }}
         >
           <div className="text-center mb-8 md:mb-16 relative">
@@ -244,7 +244,7 @@ export function AboutSection() {
 
               <div className="flex flex-col sm:flex-row items-center lg:items-start gap-3 w-full">
                 <Link
-                  href="/images/update[1]ayush.pdf"
+                  href="/images/Ayush_rai_cv.pdf"
                   target="_blank"
                   download
                   className="w-full sm:w-auto"
